@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sinto</string>
+    <string name="action_settings">Settings</string>
+    <string name="note_activity_label">Note</string>
+    <string name="input_note_title">Name</string>
+    <string name="input_note_title_hint"></string>
+</resources>
