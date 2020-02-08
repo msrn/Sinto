@@ -12,11 +12,11 @@
             android:theme="@style/AppTheme"
             tools:ignore="GoogleAppIndexingWarning">
         <activity
-                android:name=".NoteActivity"
+                android:name=".view.NoteActivity"
                 android:label="@string/note_activity_label"
-                android:parentActivityName=".MainActivity" />
+                android:parentActivityName=".view.MainActivity" />
         <activity
-                android:name=".MainActivity"
+                android:name=".view.MainActivity"
                 android:label="@string/app_name"
                 android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>

@@ -1,4 +1,4 @@
-package fi.msrn.sinto;
+package fi.msrn.sinto.view;
 
 import android.os.Bundle;
 import android.view.Menu;
@@ -10,6 +10,8 @@ import androidx.appcompat.widget.Toolbar;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
+
+import fi.msrn.sinto.R;
 
 public class MainActivity extends AppCompatActivity {
 

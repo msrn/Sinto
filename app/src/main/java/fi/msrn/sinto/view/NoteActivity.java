@@ -1,8 +1,10 @@
-package fi.msrn.sinto;
+package fi.msrn.sinto.view;
 
 import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import fi.msrn.sinto.R;
 
 public class NoteActivity extends AppCompatActivity {
 

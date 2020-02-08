@@ -1,4 +1,4 @@
-package fi.msrn.sinto.util;
+package fi.msrn.sinto.utils;
 
 import android.content.Context;
 import android.view.GestureDetector;
