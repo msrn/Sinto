@@ -12,7 +12,7 @@ public class Note {
     private String title, body, date;
 
     public static final String CREATE_TABLE =
-            "CREATE TABLE" + TABLE_NAME + "("
+            "CREATE TABLE " + TABLE_NAME + "("
             + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT,"
             + COLUMN_TITLE + " TEXT,"
             + COLUMN_BODY + " TEXT,"

@@ -1,7 +1,11 @@
 <resources>
-    <string name="app_name">Sinto</string>
+    <string name="app_name">Notes</string>
     <string name="action_settings">Settings</string>
-    <string name="note_activity_label">Note</string>
-    <string name="input_note_title">Name</string>
-    <string name="input_note_title_hint"></string>
+    <string name="activity_title_home">Notes</string>
+    <string name="msg_no_notes">No notes found!</string>
+    <string name="lbl_new_note_title">New Note</string>
+    <string name="lbl_edit_note_title">Edit Note</string>
+    <string name="hint_enter_note">Enter your note!</string>
+    <string name="input_note_title_hint" />
+    <string name="input_note_title" />
 </resources>
